@@ -1,0 +1,51 @@
+.DivColor{
+    background-color: blueviolet;
+}
+
+.titleHeader{
+    height: 200px;
+    background-color: #D9D9D9;
+}
+
+.header{
+    width: 1887px;
+    height: 72px;
+    top: 81px;
+    left: 17px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+}
+
+.numOne{
+    background-color: #626161;
+    border: 1px;
+    align-content: center;
+    
+    
+}
+.numTwo{
+    background-color: #626161;
+    border: 1px;
+
+}
+.numThree{
+    background-color: #626161;
+    border: 1px;
+
+}
+.cenRow{
+    text-align: center;
+}
+.c1{
+    background-color: mediumorchid;
+}
+.c2{
+    background-color: firebrick;
+}
+.c3{
+    background-color: lawngreen;
+}
+.c4{
+    background-color: aqua;
+}
